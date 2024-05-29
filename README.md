@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="200" style="border: 2px solid #000; border-radius: 10px;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh3aXoxMWsxNXpocnBuMWUyOGdycTQ2ZzE2djB5Ymt0cjI2Zm53MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WJw9kAG3wonu/giphy.gif" />
+<img align="right" height="200" style=" border-radius: 20%;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh3aXoxMWsxNXpocnBuMWUyOGdycTQ2ZzE2djB5Ymt0cjI2Zm53MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WJw9kAG3wonu/giphy.gif" />
 ###
 
 ![](https://github-readme-stats.vercel.app/api?username=Parthvariya2908&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
