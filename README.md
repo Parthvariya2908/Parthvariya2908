@@ -17,27 +17,47 @@
 
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" style="border: 1px solid white; padding: 5px;" />
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
 
 
 
