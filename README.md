@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Parth and I'm  from India</h2>
+<h3>Computer Science and Engineering student pursuing a Bachelor of Technology degree, passionate about  development and data science. </h3>
 
 ###
 
