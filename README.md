@@ -49,15 +49,15 @@
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?trk=article-ssr-frontend-pulse_little-text-blockskills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
-</td><td valign="top" width="33%">
 
 
 
-</td></tr></table>  
+
+
+</tr></table>  
 
 
 
