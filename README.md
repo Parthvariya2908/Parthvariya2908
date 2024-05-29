@@ -17,7 +17,6 @@
 
 
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" style="margin-right: 20px; border: 1px solid white; padding: 5px;" />
   <img width="12" />
@@ -39,6 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" style="border: 1px solid white; padding: 5px;" />
 </div>
+
 
 
 
