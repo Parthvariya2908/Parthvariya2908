@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Parth and I'm  from India</h2>
+<h2 align="left">Hi 👋! My name is Parth and I'm  from India</h2> <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Parthvariya2908&icon=0&color=0" style="transform: scale(1.5);" alt="Visit Count">
+</a>
+
 <h3>Computer Science and Engineering student pursuing a Bachelor of Technology degree, passionate about  development and data science. </h3>
 
 
@@ -15,9 +18,6 @@
 </div>
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Parthvariya2908&icon=0&color=0" style="width:150px; height:40px;" alt="Visit Count">
-</a>
 
 
 <div align="left">
