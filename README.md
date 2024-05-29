@@ -15,8 +15,9 @@
 </div>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Parthvariya2908&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Parthvariya2908&icon=0&color=0" style="width:150px; height:40px;" alt="Visit Count">
+</a>
 
 
 <div align="left">
