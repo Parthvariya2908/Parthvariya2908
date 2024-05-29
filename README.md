@@ -15,12 +15,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthvariya2908&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<hr style="border: 2px solid blue;">
+
 
 
 <div align="left">
   <h2>Languages and Tools</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <div style="display: flex; flex-wrap: nowrap; gap: 12px; border: 2px solid white; padding: 10px; background-color: #f0f0f0;">
     <div style="border: 1px solid black; padding: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     </div>
@@ -53,6 +53,7 @@
     </div>
   </div>
 </div>
+
 
 
 ###
