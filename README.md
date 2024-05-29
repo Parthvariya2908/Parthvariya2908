@@ -73,7 +73,7 @@
 
 
 
-###
+  <hr style="border: 2px solid blue;">
 
 <div align="left">
   <a href="variyaparth84@gmail.com" target="_blank">
