@@ -3,8 +3,6 @@
 <h5>Computer Science and Engineering student pursuing a Bachelor of Technology degree, passionate about  development and data science. </h5>
 
 
-<img align="right" height="200" style=" border-radius: 20%;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh3aXoxMWsxNXpocnBuMWUyOGdycTQ2ZzE2djB5Ymt0cjI2Zm53MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WJw9kAG3wonu/giphy.gif" />
-
 
 
 <div>
